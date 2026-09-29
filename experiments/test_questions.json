@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "query": "¿Cuáles son las etapas del lavado de dinero?"
+  },
+  {
+    "id": "q2",
+    "query": "¿Qué es el lavado de dinero?"
+  },
+  {
+    "id": "q3",
+    "query": "¿Cuánto dura la prueba de conocimientos?"
+  },
+  {
+    "id": "q4",
+    "query": "¿Cuál es el propósito de la prueba de conocimientos?"
+  },
+  {
+    "id": "q5",
+    "query": "¿Quiénes forman parte de la población objetivo de la prueba?"
+  },
+  {
+    "id": "q6",
+    "query": "¿Cuál es la diferencia entre el lavado de dinero y el financiamiento al terrorismo?"
+  },
+  {
+    "id": "q7",
+    "query": "¿En qué organismos internacionales participa México para prevenir el lavado de dinero y el financiamiento al terrorismo?"
+  },
+  {
+    "id": "q8",
+    "query": "¿Cuáles son los procesos cognitivos que evalúa la prueba?"
+  },
+  {
+    "id": "q9",
+    "query": "¿Cuáles son las dimensiones del conocimiento que evalúa la prueba?"
+  },
+  {
+    "id": "q10",
+    "query": "¿Cuántas opciones de respuesta tiene cada reactivo y cuántas son correctas?"
+  },
+  {
+    "id": "q11",
+    "query": "¿Qué tipos de reactivos puede encontrar el sustentante durante la evaluación?"
+  },
+  {
+    "id": "q12",
+    "query": "¿Qué acciones puede realizar el sustentante durante la evaluación?"
+  },
+  {
+    "id": "q13",
+    "query": "¿Qué debe hacer una persona que necesita una consideración especial por discapacidad y con cuánta anticipación?"
+  },
+  {
+    "id": "q14",
+    "query": "¿Qué identificaciones oficiales se aceptan el día de la evaluación?"
+  },
+  {
+    "id": "q15",
+    "query": "¿Los reactivos piloto se consideran en el resultado de la prueba?"
+  }
+]

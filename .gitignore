@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Source documents
+data/raw/
+
+# Generated intermediate files
+data/processed/
+
+# Experiment outputs
+outputs/
